@@ -2,7 +2,7 @@ import os
 
 # --- Your selected folder names ---
 wine_brands = [
-    "1000 Stories", "13 Celsius", "14 Hands", "19 Crimes", "1924",
+    "14 Hands", "19 Crimes", "1924",
     "7 Deadly Zins", "7 Moons", "A To Z", "Acrobat", "Alamos",
     "Alexander Valley Vineyards", "Almaden Box", "Andre", "Angeline",
     "Angels & Cowboys", "Antigal Winery And Estates", "Apothic",
