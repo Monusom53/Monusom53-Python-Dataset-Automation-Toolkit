@@ -48,7 +48,7 @@ def copy_valid_pairs(main_folder, output_folder, max_pairs_per_folder=None, imag
 
 if __name__ == "__main__":
     main_dir = r"D:\Checked Dataset\August Checking"
-    output_dir = r"D:\Annotation Symbol images"
+    output_dir = r"D:\Annotation Symbol images\monu"
 
     # 🔧 SET LIMIT HERE:
     max_limit = 311   # change this value
